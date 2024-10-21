@@ -1,0 +1,23 @@
+# Java compiled class files
+*.class
+
+# Log files
+*.log
+
+# Package files (JAR, WAR, EAR)
+*.jar
+*.war
+*.ear
+
+# Maven build directory
+/target/
+
+# Eclipse IDE specific files
+.project
+.classpath
+.settings/
+
+
+
+
+
