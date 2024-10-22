@@ -18,7 +18,7 @@ setup:
 1. Download and then add it to libraries of eclipse postgre sql jdbc driver.
 2. Configure your postgre sql database settings in the HotelReservationSystem.java file:
 
-private static final String DB_URL = "jdbc:postgresql://localhost:5432/hotel_db";
+private static final String DB_URL = "jdbc:postgresql://localhost:5432/HotelDB";
 private static final String DB_USER = "your_username";
 private static final String DB_PASSWORD = "your_password";
 
